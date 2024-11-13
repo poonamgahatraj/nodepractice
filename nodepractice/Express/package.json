@@ -1,0 +1,14 @@
+{
+  "name": "express",
+  "version": "1.0.0",
+  "description": "this is a packeage",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "poonam",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
